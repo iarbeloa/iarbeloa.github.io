@@ -5,7 +5,7 @@ permalink: /nuevo-modelo/
 
 El modelo de predicción ya está disponible:
 
-https://www.inakiarbeloa.com/generales-2019
+[https://www.inakiarbeloa.com/generales-2019/](https://www.inakiarbeloa.com/generales-2019)
 
 Lo actualizaré cada mañana con las nuevas encuestas que se vayan publicando.
 

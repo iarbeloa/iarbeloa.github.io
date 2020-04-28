@@ -45,4 +45,4 @@ En los 8 escenarios restantes, existe un riesgo de bloqueo considerable: 4 escen
 
 La tabla del Paso 2 nos indica la probabilidad de cada candidato de alcanzar la presidencia del gobierno en los distintos escenarios. La predicción de la composición del Congreso del primer modelo nos indica la probabilidad de cada escenario. La combinación de esos dos elementos resulta en la probabilidad de cada candidato de alcanzar la presidencia.
 
-*Para consultar la metodología del primero modelo, haz click [aquí](https://www.inakiarbeloa.com/metodologia-del-primer-modelo-la-composicion-del-congreso/).*
+*Para consultar la metodología del primero modelo, haz click [aquí](https://www.inakiarbeloa.com/metodologia-del-primer-modelo-la-composicion-del-congreso).*
