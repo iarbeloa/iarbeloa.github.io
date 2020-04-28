@@ -39,4 +39,4 @@ Sin embargo, hay muchas razones para dudar de esta estimación. En la últimas e
 
 ![](/images/2018_andalucia_election_forecast/2018.11.24_vox_5.png)
 
-*La actualización más reciente del modelo de pronóstico está disponible [aquí](https://www.inakiarbeloa.com/elecciones-andaluzas-2018/).*
+*La actualización más reciente del modelo de pronóstico está disponible [aquí](https://www.inakiarbeloa.com/elecciones-andaluzas-2018).*

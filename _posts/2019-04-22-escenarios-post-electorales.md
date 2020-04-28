@@ -3,7 +3,7 @@ permalink: /escenarios-post-electorales/
 ---
 # El Mapa del Día Después
 
-¿Dónde estaremos el lunes que viene? [El modelo de predicción](https://www.inakiarbeloa.com/generales-2019/) de las elecciones nos dice que hay mucha incertidumbre, pero algunos escenarios son más probables que otros.
+¿Dónde estaremos el lunes que viene? [El modelo de predicción](https://www.inakiarbeloa.com/generales-2019) de las elecciones nos dice que hay mucha incertidumbre, pero algunos escenarios son más probables que otros.
 
 ![](/images/04.2019_general_election_forecast/posts/2019-04-22-escenarios.png)
 

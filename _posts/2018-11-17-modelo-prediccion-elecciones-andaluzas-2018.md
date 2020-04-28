@@ -5,7 +5,7 @@ permalink: /modelo-prediccion-elecciones-andaluzas-2018/
 
 He construido un modelo estadístico sencillo para simular la composición del próximo parlamento de Andalucía. El modelo parte de todas las encuestas publicadas en los últimos tres meses y realiza 20.000 simulaciones teniendo en cuenta cuánto suelen equivocarse las encuestas, cómo vota cada provincia y el grado de acuerdo entre las encuestas publicadas.
 
-Publicaré actualizaciones diarias a lo largo de la campaña [aquí](https://inakiarbeloa.com/elecciones-andaluzas-2018/).
+Publicaré actualizaciones diarias a lo largo de la campaña [aquí](https://inakiarbeloa.com/elecciones-andaluzas-2018).
 
 ## ¿Quién tendrá la mayoría?
 ![Distribución de fuerza izquierda-derecha](/images/2018_andalucia_election_forecast/2018.11.17_izquierda_derecha.png)

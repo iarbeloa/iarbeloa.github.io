@@ -71,4 +71,4 @@ En Navarra UPN, PP y Ciudadanos se presentan en coalición bajo el nombre Navarr
 
 Al completar el Paso 3, tenemos resultados a nivel provincial para las 5000 elecciones simuladas. Para terminar, calculo cómo se repartirían los escaños en cada provincia si se diese ese resultado. Utilizo el [método d'Hondt](https://es.wikipedia.org/wiki/Sistema_D%27Hondt) y establezco una barrera de entrada del 3%. La suma de todas las provincias nos da 5000 composiciones del Congreso de los Diputados, todas ellas igualmente posibles.
 
-*Para consultar la metodología del segundo modelo, haz click [aquí](https://www.inakiarbeloa.com/metodologia-del-segundo-modelo-la-eleccion-del-presidente-2/).*
+*Para consultar la metodología del segundo modelo, haz click [aquí](https://www.inakiarbeloa.com/metodologia-del-segundo-modelo-la-eleccion-del-presidente-2).*

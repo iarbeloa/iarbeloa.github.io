@@ -3,7 +3,7 @@ permalink: /que-tal-lo-hizo-el-modelo/
 ---
 # ¿Qué tal lo hizo el modelo?
 
-Empezamos este ejercicio hace un mes con el objetivo [declarado](https://www.inakiarbeloa.com/metodologia-2019/) de "cuantificar la incertidumbre". Partíamos de la premisa de que no podemos saber qué ocurrirá con certeza, pero podemos organizar la información disponible para saber la probabilidad de ocurrir de varias situaciones. Las encuestas son un instrumento imperfecto y se equivocan con frecuencia, pero no son puro ruido: contienen información valiosa. El objetivo es traducir la información imperfecta de las encuestas en predicciones probabilísticas.
+Empezamos este ejercicio hace un mes con el objetivo [declarado](https://www.inakiarbeloa.com/metodologia-2019) de "cuantificar la incertidumbre". Partíamos de la premisa de que no podemos saber qué ocurrirá con certeza, pero podemos organizar la información disponible para saber la probabilidad de ocurrir de varias situaciones. Las encuestas son un instrumento imperfecto y se equivocan con frecuencia, pero no son puro ruido: contienen información valiosa. El objetivo es traducir la información imperfecta de las encuestas en predicciones probabilísticas.
 
 ## La predicción del Congreso
 
@@ -28,7 +28,7 @@ No es la primera vez: Al contrario de lo que se suele decir, las encuestas avisa
 
 Un rasgo diferenciador de mi modelo de predicción es el intento de pronosticar quién será presidente. Este experimento intenta superar una de las limitaciones de los modelos de predicción en sistemas parlamentarios multipartidistas: Los escaños de cada partido no bastan para saber quién gobernará. Ni siquiera basta con saber los escaños de las diferentes coaliciones posibles, ya que también importan las interacciones entre diferentes coaliciones: El escenario cambia dependiendo de si el PSOE tiene dos coaliciones posibles (UP+nacionalistas por un lado y Ciudadanos por otro) o si tiene solo una opción.
 
-El pronóstico del presidente tiene muchas limitaciones y elementos subjetivos, que se pueden consultar en [su metodología](https://www.inakiarbeloa.com/metodologia-del-segundo-modelo-la-eleccion-del-presidente-2/). En algunos casos, aun sabiendo la composición exacta del parlamento no podemos saber quién acabará siendo investido. Sin embargo, en muchos escenarios el ganador está claro, y en los demás casos podemos identificar elementos objetivos que refuerzan o debilitan las opciones de cada candidato.
+El pronóstico del presidente tiene muchas limitaciones y elementos subjetivos, que se pueden consultar en [su metodología](https://www.inakiarbeloa.com/metodologia-del-segundo-modelo-la-eleccion-del-presidente-2). En algunos casos, aun sabiendo la composición exacta del parlamento no podemos saber quién acabará siendo investido. Sin embargo, en muchos escenarios el ganador está claro, y en los demás casos podemos identificar elementos objetivos que refuerzan o debilitan las opciones de cada candidato.
 
 El modelo estimaba que Pedro Sánchez tenía 2 entre 3 posibilidades de conseguir la reelección. El favorito del modelo será presidente del gobierno, por lo que a ojos de muchos "ha acertado".
 <div>
@@ -49,7 +49,7 @@ A lo largo de la campaña publicamos otras predicciones basadas en el modelo del
 
 El modelo de predicción del Congreso parece estar bien calibrado: Cuando un evento tenía entre el 10% y el 30% de opciones de ocurrir, ocurrió el 19% de las veces. Y cuando un evento tenía más del 30% de opciones de ocurrir, ocurrió más del 30% de las veces (un 42%). 5 de 50 partidos con "pocas opciones" de entrar en alguna provincia consiguieron escaño. Se trata de UP en las tres provincias valencianas (donde sorprendió al derrotar con contundencia a Compromís), Vox en Cádiz y UP en Murcia.
 
-[Este artículo](https://www.inakiarbeloa.com/escenarios-post-electorales/) analizaba el tablero electoral y estimaba las probabilidades de cada escenario post-electoral, como se puede ver en esta tabla. A falta de terminar el recuento del voto exterior, estamos en el recuadro naranja, que era el segundo más probable:
+[Este artículo](https://www.inakiarbeloa.com/escenarios-post-electorales) analizaba el tablero electoral y estimaba las probabilidades de cada escenario post-electoral, como se puede ver en esta tabla. A falta de terminar el recuento del voto exterior, estamos en el recuadro naranja, que era el segundo más probable:
 
 ![](/images/04.2019_general_election_forecast/posts/2019-04-29-postmortem-escenarios.png)
 

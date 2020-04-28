@@ -22,4 +22,4 @@ La ligera ventaja del PP en estimación de voto le coloca como favorito moderado
 
 La ventaja estructural se debe a que las provincias menos pobladas están sobre-representadas en el parlamento. Huelva tiene una cuarta parte de la población de Sevilla, pero cuenta con 11 escaños mientras Sevilla tiene 18. Ciudadanos es especialmente fuerte respecto al PP en Málaga, Sevilla y Cádiz, las tres provincias más pobladas, en las que más caro sale cada escaño.
 
-*La actualización más reciente del modelo de pronóstico está disponible [aquí](https://www.inakiarbeloa.com/elecciones-andaluzas-2018/).*
+*La actualización más reciente del modelo de pronóstico está disponible [aquí](https://www.inakiarbeloa.com/elecciones-andaluzas-2018).*

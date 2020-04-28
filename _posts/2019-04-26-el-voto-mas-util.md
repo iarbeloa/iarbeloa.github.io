@@ -15,7 +15,7 @@ Un ejemplo de las elecciones asturianas de 2012 explica bien este tipo de situac
 
 Al PP le sobraron votos para conseguir el segundo escaño. Si 36 de sus votantes hubiesen cambiado su voto a Foro, ese escaño se hubiese quedado en el bloque de la derecha.
 
-El voto más útil, el que más influencia tiene, es el que decanta el último escaño. El problema es que es difícil saber qué partidos se lo disputan. En mi [modelo de predicción](https://www.inakiarbeloa.com/generales-2019/) simulo las elecciones 5,000 veces, partiendo de las encuestas publicadas e introduciendo variaciones aleatorias. Podemos utilizar estas simulaciones para estimar qué partidos competirán por el último escaño en cada provincia.
+El voto más útil, el que más influencia tiene, es el que decanta el último escaño. El problema es que es difícil saber qué partidos se lo disputan. En mi [modelo de predicción](https://www.inakiarbeloa.com/generales-2019) simulo las elecciones 5,000 veces, partiendo de las encuestas publicadas e introduciendo variaciones aleatorias. Podemos utilizar estas simulaciones para estimar qué partidos competirán por el último escaño en cada provincia.
 
 ## Provincias pequeñas (1 a 4 escaños)
 

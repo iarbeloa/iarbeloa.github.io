@@ -16,10 +16,10 @@ Cuantificar la incertidumbre consiste en traducir la información imperfecta de 
 
 El primer modelo toma como ingrediente las encuestas de intención de voto y genera una predicción sobre la composición del Congreso de los Diputados. El modelo esta elaborado a partir de los errores históricos de las encuestas en España, de la distribución del voto a cada partido en las diferentes provincias y de los cambios históricos en esa distribución.
 
-[La metodología del primer modelo puede consultarse aquí.](https://www.inakiarbeloa.com/metodologia-del-primer-modelo-la-composicion-del-congreso/)
+[La metodología del primer modelo puede consultarse aquí.](https://www.inakiarbeloa.com/metodologia-del-primer-modelo-la-composicion-del-congreso)
 
 ### Segundo modelo: La elección del presidente
 
 El segundo modelo toma como ingrediente el resultado del primer modelo y genera una predicción sobre qué partido alcanzara la presidencia del gobierno. Este modelo está basado en un análisis exhaustivo de los distintos escenarios post-electorales posibles.
 
-[La metodología del segundo modelo puede consultarse aquí.](https://www.inakiarbeloa.com/metodologia-del-segundo-modelo-la-eleccion-del-presidente-2/)
+[La metodología del segundo modelo puede consultarse aquí.](https://www.inakiarbeloa.com/metodologia-del-segundo-modelo-la-eleccion-del-presidente-2)

@@ -47,4 +47,4 @@ Ni una sola de las 2000 simulaciones de la elecciones otorga a Ciudadanos los 57
 
 ## ¿De dónde salen estos números?
 
-Este modelo de predicción es el mismo que utilicé en las elecciones de abril. [Aquí explico](https://www.inakiarbeloa.com/metodologia-del-primer-modelo-la-composicion-del-congreso/) la metodología que seguí entonces para predecir la composición del Congreso de los Diputados.
+Este modelo de predicción es el mismo que utilicé en las elecciones de abril. [Aquí explico](https://www.inakiarbeloa.com/metodologia-del-primer-modelo-la-composicion-del-congreso) la metodología que seguí entonces para predecir la composición del Congreso de los Diputados.
