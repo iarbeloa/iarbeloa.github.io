@@ -1,5 +1,5 @@
 ---
-redirect_from: "/metodologia-del-segundo-modelo-la-eleccion-del-presidente-2/"
+permalink: /metodologia-del-segundo-modelo-la-eleccion-del-presidente-2/
 ---
 # Metodología del segundo modelo: La elección del presidente
 

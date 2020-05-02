@@ -1,5 +1,5 @@
 ---
-redirect_from: "/metodologia-2019/"
+permalink: /metodologia-2019/
 ---
 # De dónde salen estos números
 

@@ -1,5 +1,5 @@
 ---
-redirect_from: "/elecciones-andaluzas-2018/"
+permalink: /elecciones-andaluzas-2018/
 ---
 # Pronóstico: Elecciones Andaluzas 2018
 
