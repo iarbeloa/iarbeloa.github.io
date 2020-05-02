@@ -1,3 +1,6 @@
+---
+redirect_from: "/elecciones-andaluzas-2018/"
+---
 # Pronóstico: Elecciones Andaluzas 2018
 
 *Última actualización: 26 de noviembre de 2018*

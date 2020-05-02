@@ -1,3 +1,6 @@
+---
+redirect_from: "/metodologia-2019/"
+---
 # De dónde salen estos números
 
 En esta sección explico la metodología que sigo para estimar las posibilidades de ser presidente para cada candidato.

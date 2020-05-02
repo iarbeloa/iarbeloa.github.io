@@ -1,5 +1,6 @@
 ---
 title: Predicción Generales Abril 2019
+redirect_from: "/generales-2019/"
 ---
 
 # Pronóstico: Elecciones Generales Abril 2019

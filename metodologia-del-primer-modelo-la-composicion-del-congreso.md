@@ -1,3 +1,6 @@
+---
+redirect_from: "/metodologia-del-primer-modelo-la-composicion-del-congreso/"
+---
 # Metodología del primer modelo: La composición del Congreso
 
 ## Paso 1: Agregar encuestas
