@@ -23,6 +23,7 @@ google_analytics: UA-129384496-1
 
 # Customize navigation links
 header_pages:
+  - about.md
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
